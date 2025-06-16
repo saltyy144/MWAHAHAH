@@ -9,3 +9,5 @@ Another reason I made a website is because I wanted to show people what I liked.
 Lastly, learning how to build a website felt like unlocking a new skill. It’s useful, fun, and might even help me in the future if I ever want to make more projects, join a tech class, or start a business. But honestly, the biggest reason I did it was because it looked cool — and I wanted to be the kind of person who could do cool stuff like that.
 
 So that’s why I made a website. Because it was cool. And I'm proud of it.
+
+this was chatgpted
